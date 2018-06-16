@@ -4,7 +4,7 @@ ASkey Sinhala Input Tool
 This tool will help Srilankan Sinhaleese people to type in sinhala language. Most of laptops and other PCs does not come with a keyboard which supports sinhala. So anyone can install this software and thype in 'Singlish'. The software will automaticaly convert it into native sinhala unicode. 
 No need to install at all, this software is portable.
 
-![Logo](http://francky.me/images/quora001.png)
+![Logo](https://1.bp.blogspot.com/-DmvMC8aZxEE/WyRtWGU9E7I/AAAAAAAACrI/dFWVsM0C1Pk-pF0FDNnup0XiOMY2zCQOgCLcBGAs/s320/favicon-1024.png)
 
 You can download the DEMO app here: https://goo.gl/J36wL3
 =============================================Technology=========================================
@@ -28,7 +28,7 @@ This software will work on most of windows operating systems. (Windows 7, 8.1 ar
 * After expiration, you can ask for a premium software from the developer.
 * Use 'Stay On Top' feature for best functionality.
 * Double clicking the icon on the system tray will maximize the software. You can hide/minimize the software too. 
-
+![Logo](https://2.bp.blogspot.com/-3xNju1GYJ1U/WyRtZWLWLiI/AAAAAAAACrM/34sGo_fsTVwW5TW2qzKMBVPS5kLb271KQCEwYBhgL/s640/aski%2B2.png)
 =========================================== Contact & Support ===================================
 For any support, contact me over LinkedIn: https://www.linkedin.com/in/asirihewage/
 or
